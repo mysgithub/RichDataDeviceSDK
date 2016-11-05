@@ -1,4 +1,4 @@
-# CodePath - Rich Data and Device SDKs
+# [CodePath](https://github.com/codepath) - Rich Data and Device SDKs
 
 Working sample code repositories for simple apps demonstrating:
 
