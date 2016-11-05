@@ -2,7 +2,7 @@
 
 Working sample code repositories for simple apps demonstrating:
 
-1. Content Provider - `contactloader` app
+1. Content Provider - `contact-loader` app
 1. Camera - `camera` app - capturing photo using implicit intent for camera
 1. Audio & Video - `audio-video` app - MediaPlayer and VideoView
 1. Google Play Services Location API - `location` app 
