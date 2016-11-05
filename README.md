@@ -1,9 +1,10 @@
 # [CodePath](https://github.com/codepath) - Rich Data and Device SDKs
 
-Working sample code repositories for simple apps demonstrating:
+Working sample code demonstrating Rich Data and Device SDKs.
 
-# 1. Content Provider - `contact-loader` app
+## Content Provider - `contact-loader` app
 
+Simple app demonstrating Content Provider.
 
 ## Attribution
 
